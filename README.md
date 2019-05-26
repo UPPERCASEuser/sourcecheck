@@ -1,5 +1,5 @@
 <h1 align="center">SourceCheck</h1>
-  <p align="center" >A simple yet effective tool for blocking BetterDocs related content.<p>
+  <p align="center" >A simple and effective way to verify and block untrusted BetterDiscord sources.<p>
   <p align="center">
     <a  href="https://github.com/anti-betterdocs/" target="_blank">
       <img src="https://nfld99.com/images/BetterDocsWarn.png" alt="" width="200px" height="200px">
