@@ -1,4 +1,4 @@
-<h1 align="center">BlockBetterDocs</h1>
+<h1 align="center">SourceCheck</h1>
   <p align="center" >A simple yet effective tool for blocking BetterDocs related content.<p>
   <p align="center">
     <a  href="https://github.com/anti-betterdocs/" target="_blank">
