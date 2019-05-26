@@ -1,0 +1,223 @@
+/*BetterDocs Blocker*/
+@import url('https://anti-betterdocs.github.io/BlockBetterDocs/BetterDocsBlockerVars.css');
+
+.typeWindows-1za-n7 + .platform-web .app {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-image: var(--BetterDocsBlockerWarn) !important;
+  cursor: not-allowed !important;
+  position: absolute !important;
+  display: block !important;
+  opacity: 1 !important;
+  left: 0 !important;
+  top: -70px !important;
+  margin: 0 !important;
+  z-index: 999999999 !important;
+  visibility: visible !important;
+}
+
+html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.container-2lgZY8.firefoxFixScrollFlex-cnI2ix > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.container-2Thooq > div.wrapper-2F3Zv8.small-5Os1Bb.avatar-3JE4B3.avatarSmall-3ACRaI > div.inner-1W0Bkn[style*="438014606066319370"]::before {
+	all:unset !important;
+  content: "You have been banned for using this theme.\a Reason: You are NOT authorized to post this theme\a ANYWHERE other than the official theme repos, and for sharing personally.\a This theme is NOT allowed on any other source.\a-BD Theme Devs" !important;
+  color:var(--BetterDocsBlockerRed) !important;
+	font-weight: 500 !important;
+	white-space: pre !important;
+	font-size: 25px !important;
+	line-height: 30px !important;
+	text-align: center !important;
+	background-color: var(--BetterDocsBlockerBlack1) !important;
+	box-shadow: inset 0 0 25px 5px var(--BetterDocsBlockerRed) !important;
+	border: 4px solid #f04747 !important;
+	padding: 0 !important;
+	padding-top: calc(50vh - 40px) !important;
+	margin: 0 !important;
+	display: inline !important;
+	opacity: 1 !important;
+	visibility: visible !important;
+	position: fixed !important;
+	left: 0 !important;
+	bottom: 0 !important;
+	top: 0 !important;
+	right: 0 !important;
+	z-index: 99999999999999999999999999999999999999999 !important;
+	pointer-events: none !important;
+	transform: none !important;
+	max-height: unset !important;
+	max-width: unset !important;
+	text-shadow: 0 0 12px var(--BetterDocsBlockerRed);
+  -webkit-app-region: drag !important;
+}
+
+/* Anti Ban Users */
+html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.container-2lgZY8.firefoxFixScrollFlex-cnI2ix > div.flex-1xMQg5.flex-1O1GKY.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.base-3dtUhz > div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.spacer-29U_x8.firefoxFixScrollFlex-cnI2ix > div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.container-2Thooq > div.wrapper-2F3Zv8.small-5Os1Bb.avatar-3JE4B3.avatarSmall-3ACRaI > div.inner-1W0Bkn[style*="--"]:before{
+  all:unset !important;
+  content: "You have been temp banned from using this Theme, \A Remove this Theme or Anti Ban to remove this message. \A Reason: using Anti Ban" !important;
+  white-space:pre !important;
+  font-size: 16px !important;
+  line-height: 30px !important;
+  text-align: center !important;
+  background-color: var(--Background-Colour)!important;
+  box-shadow:inset 0 0 55px 5px var(--Main-Colour)!important;
+  border:5px solid var(--Main-Colour) !important;
+  padding: 0 !important;
+  padding-top: calc(50vh - 40px) !important;
+  margin: 0 !important;
+  display: inline !important;
+  opacity: 1 !important;
+  cursor: default !important;
+  visibility: visible !important;
+  position: fixed !important;
+  top: 22px !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  right: 0 !important;
+  pointer-events: none !important;
+  transform:none !important;
+  -webkit-app-region:drag !important;
+  transform:none !important;
+  max-height:unset !important;
+  max-width:unset !important;
+  z-index: 1000000000000 !important;
+}
+
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.betterdocs." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://betterdocs." i]::after,
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="www.discordsource." i]::after, 
+#app-mount .containerCozy-jafyvG .markup-2BOw-j > .anchor-3Z-8Bb[href*="://discordsource." i]::after{
+    content: var(--BetterDocsBlockerWarnLogo2) !important;
+    position: relative !important;
+    top: 3px !important;
+    margin: 0 2px !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i]{
+  color: var(--BetterDocsBlockerRed) !important;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]::selection,
+.embedLink-1G1K1D[href*="://betterdocs." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i],
+.embedLink-1G1K1D[href*="://discordsource." i],
+.containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i]{
+  background-color: transparent !important;
+}
+
+.embed-IeVjo6 a[href*="://betterdocs." i]:before,
+.embed-IeVjo6 a[href*="://discordsource." i]:before{
+  color: var(--BetterDocsBlockerWhite);
+  border: 2px solid var(--BetterDocsBlockerRed);
+  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) bottom right/100px no-repeat;
+  box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+  padding: 10px;
+  padding-right: 100px;
+  margin-top: -33px;
+  margin-left: -15px;
+  border-radius: 5px !important;
+  text-align: justify;
+  position: absolute;
+  font-weight: bold;
+  height: 100%;
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  overflow: hidden;
+  letter-spacing: 0;
+  content: "BetterDocs and Discord Source are unsafe sources. The owner of said sources posts developers themes and plugins without proper permission, and profits off of their work. This site also contains content that would not be found on the official BetterDiscord content lists. This means it contains harmful plugins that could either get you into trouble with discord, or steal your user account info. This isn't the first time this has happened. Please stay safe and download from official sources only.";
+}
+
+.embed-IeVjo6 a[href*="://betterdocs." i],
+.embed-IeVjo6 a[href*="://discordsource." i]{
+  color: transparent !important;
+  height: 70px;
+}
+
+.embed-IeVjo6 a[href*="betterdocs.net/preview" i]:before,
+.embed-IeVjo6 a[href*="betterdocs.us/preview" i]:before,
+.embed-IeVjo6 a[href*="discordsource.com/preview" i]:before {
+  width: auto;
+  line-height: 17px;
+  height: 100%;
+  z-index: 2;
+  padding: 10px;
+  color: var(--BetterDocsBlockerWhite);
+  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) top/30% no-repeat;
+  display: flex;
+  text-align: justify;
+  align-content: center;
+  align-items: center;
+  white-space: pre-wrap;
+  content: "BetterDocs and Discord Source are unsafe sources. The owner of said sources posts developers themes and plugins without proper permission, and profits off of their work. This site also contains content that would not be found on the official BetterDiscord content lists. This means it contains harmful plugins that could either get you into trouble with discord, or steal your user account info. This isn't the first time this has happened. Please stay safe and download from official sources only.";
+}
+
+.wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
+  content: 'BetterDocs/Discord Source are untrusted sources of themes and plugins\a The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs/Discord Source.';
+  color: var(--BetterDocsBlockerWhite);
+  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
+  border: 2px solid var(--BetterDocsBlockerRed);
+  box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
+  padding: 10px 7px 10px 100px;
+  margin-top: -35px;
+  margin-left: -18px;
+  border-radius: 5px !important;
+  position: absolute;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-align: justify;
+  font-size: 15px;
+  width: 300px;
+  height: 78px;
+  z-index: 1;
+}
+
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i] {
+  color: transparent !important;
+  cursor: not-allowed !important;
+  pointer-events: none !important;
+  letter-spacing: -1000px !important;
+}
+
+.markup-2BOw-j .anchor-3Z-8Bb[href="https://discordapp.com/invite/D4cAkXX" i]:after {
+  content: 'Harmful Invite Detected - BetterDocs';
+  color: var(--BetterDocsBlockerRed) !important;
+  margin-left: -8px;
+  font-weight: bold;
+  pointer-events: none;
+  letter-spacing: 0;
+}
+
+#app-mount .guildIcon-VlWW86[style*='/icons/153708594091655168'] {
+  background-image: var(--BetterDocsBlockerWarnLogo3) !important;
+}
+
+.embedLink-1G1K1D[href*="://betterdiscord.net"i]::after,
+.embedLink-1G1K1D[href*="://betterdiscordlibrary.com"i]::after {
+    position:absolute;
+    top:0;
+    right:0;
+    color:#fff;
+    border-radius:0 0 0 5px;
+    line-height: 1.3;
+    font-size: .85em;
+    font-weight: 500;
+    padding: 1px 2px;
+    padding-left:18px;
+    background-image:url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAxOTIgMTkyIiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4Ij48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48cGF0aCBkPSJNMCwxOTJ2LTE5MmgxOTJ2MTkyeiIgZmlsbD0ibm9uZSIvPjxnIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGQ9Ik05NiwxNmMtNDQuMTEyLDAgLTgwLDM1Ljg4OCAtODAsODBjMCw0NC4xMTIgMzUuODg4LDgwIDgwLDgwYzQ0LjExMiwwIDgwLC0zNS44ODggODAsLTgwYzAsLTkuMDA4IC0xLjU2ODEzLC0xNy42NDYzOCAtNC4zMjgxMywtMjUuNzM0MzhsLTEyLjk1MzEyLDEyLjk1MzEzYzAuODQsNC4xMjggMS4yODEyNSw4LjQwNTI1IDEuMjgxMjUsMTIuNzgxMjVjMCwzNS4yODggLTI4LjcxMiw2NCAtNjQsNjRjLTM1LjI4OCwwIC02NCwtMjguNzEyIC02NCwtNjRjMCwtMzUuMjg4IDI4LjcxMiwtNjQgNjQsLTY0YzEzLjA2NCwwIDI1LjIxNTM4LDMuOTUxMTIgMzUuMzU5MzgsMTAuNzAzMTJsMTEuNDUzMTIsLTExLjQ1MzEyYy0xMy4xODQsLTkuNTUyIC0yOS4zMzI1LC0xNS4yNSAtNDYuODEyNSwtMTUuMjV6TTE3MC4zNDM3NSwyNi4zNDM3NWwtODIuMzQzNzUsODIuMzQzNzVsLTI2LjM0Mzc1LC0yNi4zNDM3NWwtMTEuMzEyNSwxMS4zMTI1bDM3LjY1NjI1LDM3LjY1NjI1bDkzLjY1NjI1LC05My42NTYyNXoiLz48L2c+PC9nPjwvc3ZnPg==');
+    background-repeat:no-repeat;
+    background-size:15%;
+    background-position:2px;
+    pointer-events:none;
+}
+.embedLink-1G1K1D[href*="://betterdiscord.net"i]::after {
+    content:'Official Source';
+    background-color:#43b581;
+}
+
+.embedLink-1G1K1D[href*="://betterdiscordlibrary.com"i]::after {
+    content:'Trusted Source';
+    background-color:#faa61a;
+}
